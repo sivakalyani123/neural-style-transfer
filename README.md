@@ -42,10 +42,13 @@ neural-style-transfer/
 ```
 
 ▶️ How to Run
+
 Place your content and style images in the project directory.
 
 Rename them (or edit the code) to content.jpg and style.jpg.
 
 Run the script:
+
 python neural_style_transfer.py
+
 The result will be saved as output.png.
