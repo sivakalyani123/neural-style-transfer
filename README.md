@@ -31,7 +31,7 @@ Install the dependencies using:
 pip install torch torchvision pillow matplotlib opencv-python
 
 📂 Folder Structure
-'''
+```
 neural-style-transfer/
 │
 ├── content.jpg                # Content image
@@ -39,7 +39,8 @@ neural-style-transfer/
 ├── output.png                 # Final generated image (after running the script)
 ├── neural_style_transfer.py   # Main Python script
 └── README.md                  # This file
-'''
+```
+
 ▶️ How to Run
 Place your content and style images in the project directory.
 
