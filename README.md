@@ -1,3 +1,15 @@
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : SIVA KALYANI S
+
+INTERN ID : CT04DG190
+
+DOMAIN : ARTIFICIAL INTELLIGENCE
+
+DURATION : 4WEEKS
+
+MENTOR : NEELA SANTOSH
+
 ## Neural Style Transfer
 
 This project demonstrates **Neural Style Transfer (NST)** using PyTorch. The objective is to take a content image and a style image, and generate a new image that preserves the content of the first but adopts the artistic style of the second.
@@ -52,3 +64,4 @@ Run the script:
 python neural_style_transfer.py
 
 The result will be saved as output.png.
+
